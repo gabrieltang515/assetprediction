@@ -7,11 +7,11 @@ This project predicts SPY's forward 5-day returns using machine learning and eva
 
 1. **Install Python dependencies:**
    pip install -r requirements.txt
-   2. **Open the notebook:**
+2. **Open the notebook:**
    jupyter notebook notebooks/q1_spy_regression.ipynb
       Or use JupyterLab:
    jupyter lab notebooks/q1_spy_regression.ipynb
-   3. **Run all cells:**
+3. **Run all cells:**
    - The notebook will automatically download data from Yahoo Finance
    - No API keys or additional setup required
    - All data is fetched on-the-fly
